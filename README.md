@@ -62,6 +62,6 @@ You'll probably need to learn more but at least these resources gives you a star
 [1]:https://github.com/OSIsoft/contributing/blob/master/code-of-conduct.md   
 [2]:https://guides.github.com/features/issues/
 [3]:https://guides.github.com/introduction/flow/
-[4]:https://learn.wheelhouse.io/
+[4]:https://learn.wheelhouse.io/events/workflow/screens/669
 [5]:https://pisquare.osisoft.com/docs/DOC-1864
 
