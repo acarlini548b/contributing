@@ -12,6 +12,8 @@ The code hosted on GitHub under the OSIsoft Organization has several goals such 
 - Provide scripts and tools to help administration of the PI System
 - Have a space where developers can collaborate
 
+The content in repositories under the OSIsoft organization on GitHub  is offered under the Apache License, Version 2.0. OSIsoft, LLC does not endorse or recommend any products, processes, or services or contributions made to its repositories. Therefore, mention of any products, processes, or services made by a third party cannot be construed as an endorsement or recommendation by OSIsoft, LLC.
+
 ##Projects Opened for Contributions
 
 Knowing those different goals, it is important to say that not all projects may be opened for contributions under the OSIsoft organization. If they are, there should be statement in the project README that will explain how to contribute.  If there is not, you should try to contact the repository owner or you can send an email to <pidevclub@osisoft.com>; make sure to do so prior you work too  hard on it!  We really like to encourage community contributions and we will do our best to help you in your contribution effort.  Also Make sure to read the project's **README** to align with what is requested for your contribution to be accepted.
