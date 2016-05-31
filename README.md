@@ -12,7 +12,7 @@ The code hosted on GitHub under the OSIsoft Organization has several goals such 
 - Provide scripts and tools to help administration of the PI System
 - Have a space where developers can collaborate
 
-The content in repositories under the OSIsoft organization on GitHub  is offered under the Apache License, Version 2.0. OSIsoft, LLC does not endorse or recommend any products, processes, or services or contributions made to its repositories. Therefore, mention of any products, processes, or services made by a third party cannot be construed as an endorsement or recommendation by OSIsoft, LLC.
+The content in repositories under the OSIsoft organization on GitHub  is offered under the [Apache License, Version 2.0][18]. OSIsoft, LLC does not endorse or recommend any products, processes, or services or contributions made to its repositories. Therefore, mention of any products, processes, or services made by a third party cannot be construed as an endorsement or recommendation by OSIsoft, LLC.
 
 ##Projects Opened for Contributions
 
@@ -94,3 +94,4 @@ There can be many applicable workflows when working with Git and with GitHub.  I
 [15]:https://techsupport.osisoft.com/Products/Developer-Technologies/
 [16]:https://msdn.microsoft.com/en-us/library/jj190809.aspx#merge
 [17]:https://help.github.com/articles/syncing-a-fork/
+[18]:https://github.com/osisoft/contributing/blob/master/LICENCE.md
