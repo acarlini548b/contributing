@@ -74,7 +74,7 @@ There can be many applicable workflows when working with Git and with GitHub.  I
 - All changes may not be accepted, they may require re-work, be ready for it!
 
 
-## ssues and Features Requests
+## Issues and Features Requests
 [GitHub Issues system][2] should be used to report issues and ask new features.  
 
 ## License
